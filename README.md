@@ -1,4 +1,5 @@
 <h1 align=center> Exp - 5 - Bubble Sort and Merge sort in CUDA </h1>
+
 ### NAME: ROGHITH K
 ### REGISTER NO: 212222040135
 <h3>DATE</h3>
